@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextFun/static/css/main.3fa6165c.css",
+    "main.js": "/TextFun/static/js/main.a0bf61e4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextFun/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/TextFun/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextFun/index.html",
+    "main.3fa6165c.css.map": "/TextFun/static/css/main.3fa6165c.css.map",
+    "main.a0bf61e4.js.map": "/TextFun/static/js/main.a0bf61e4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextFun/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa6165c.css",
+    "static/js/main.a0bf61e4.js"
+  ]
+}
