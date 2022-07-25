@@ -69,24 +69,24 @@ export default function Textform(props) {
             rows="8"
           ></textarea>
         </div>
-        <button className="btn btn-primary my-3 mx-2" onClick={handleUpClick}>
+        <button className="btn btn-primary my-1 mx-1" onClick={handleUpClick}>
           Convert to Uppercase
         </button>
 
-        <button className="btn btn-primary my-3 mx-2 " onClick={handleCopy}>
+        <button className="btn btn-primary my-1 mx-1 " onClick={handleCopy}>
           Copy
         </button>
-        <button className="btn btn-primary my-3 mx-2" onClick={handleLowClick}>
+        <button className="btn btn-primary my-1 mx-1" onClick={handleLowClick}>
           Convert to Lowercase
         </button>
-        <button className="btn btn-primary my-3 mx-2" onClick={handleCap}>
+        <button className="btn btn-primary my-1 mx-1" onClick={handleCap}>
           Capitalize
         </button>
 
-        <button className="btn btn-primary my-3 mx-2" onClick={handleClear}>
+        <button className="btn btn-primary my-1 mx-1" onClick={handleClear}>
           Delete
         </button>
-        <button className="btn btn-primary my-3 mx-2" onClick={handleRep}>
+        <button className="btn btn-primary my-1 mx-1" onClick={handleRep}>
           Total Count without Space
         </button>
       </div>
