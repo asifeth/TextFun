@@ -1,1 +1,1 @@
-A text utility app 
+ACCESS HERE : https://asifeth.github.io/TextFun/
