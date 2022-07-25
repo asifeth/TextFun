@@ -1,2 +1,1 @@
-# TextFun
- 
+A text utility app 
